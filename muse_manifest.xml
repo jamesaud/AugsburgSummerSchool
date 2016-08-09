@@ -1,0 +1,36 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="mywebart.com" resolutions="1x" timestamp="1436875596636">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="3993265955" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="website.html" crc="3953181947" seo="true" mt="1436874620000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="comoedit.jpg" crc="4254657262" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u194-12.png" crc="120168291" ref="index"/>
+    <file name="teampic-crop-u197.jpg" crc="61558241" ref="index"/>
+    <file name="u77.png" crc="3964103681" ref="index"/>
+    <file name="u77-m.png" crc="3964103681" ref="index"/>
+    <file name="img_7858.jpg" crc="4207519234" ref="index"/>
+    <file name="bavaria-castle.jpg" crc="4108046225" ref="index"/>
+    <file name="bavaria-bergamo.jpg" crc="475250101" ref="index"/>
+    <file name="stairwaybergamo.jpg" crc="518662614" ref="index"/>
+    <file name="u296-grad.png" crc="455240682" ref="index"/>
+  </folder>
+  <file name="index.html" crc="262540320" seo="true" mt="1436875578825" redirect="true"/>
+</manifest>
